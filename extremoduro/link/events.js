@@ -2,6 +2,6 @@
 
 // export const eventLink = async (id) =>{
 //     const btnEvent = document.querySelector("#linkbtn")
-//     btnEvent.addEventListener("click", (id));
+//     btnEvent.addEventListener("click", id());
 // }
 

@@ -9,7 +9,7 @@ export const Home = () => {
       <div class="container">
       <h1 class="main-title">Extremoduro discography 🤘</h1>
         <p>The discography of the Spanish rock band Extremoduro consists of eleven studio albums, one live album, two compilation albums and one video album.</p>
-        <section><a id="#linkbtn" onclik="https://robeyfito.es.tl/CURIOSIDADES.htm">Group curiosities</a></section>
+        <button><a id="#linkbtn" onclik="https://robeyfito.es.tl/CURIOSIDADES.htm">Group curiosities</a></button>
         </div>
     </div>
     <section class="container content">

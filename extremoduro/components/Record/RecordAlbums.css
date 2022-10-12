@@ -1,19 +1,17 @@
 img {
-    height: 200%;
-    width: 200px;
+    height: auto;
+    width: 30%;
     margin: 20px;
-    text-align: center;
     flex-wrap: wrap;
-    margin: 20px;
     display: flex;
     color: white;
     display: block;
-    
+    max-width: 100%;
 }
 
 #album {
 
-    /* background: rgb(245, 242, 242); */
+    background: rgb(245, 242, 242);
     margin: auto;
     text-align: center;
     vertical-align: text-bottom;  
@@ -27,7 +25,7 @@ h2 {
     padding: 10px;
     font-display: center;
     color: aliceblue;
-    margin-left: 10px;
+    margin-left: 0px;
     position: center;
 }
 
@@ -37,10 +35,12 @@ h2 {
 
     margin-top: 15px;
     padding-top: 100%;
+    background: red;
 
 }
 
 p {
     margin: 20px;
+    display: flex;
+    
 }
-
