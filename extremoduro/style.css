@@ -3,11 +3,12 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding: 0;
+  margin-bottom: auto;
+  padding: 10;
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open S', sans-serif;
   color: #222;
   padding-bottom: 50px;
 }
@@ -19,7 +20,7 @@ body {
 
 .nav {
   position: fixed;
-  background-color: #222;
+  background-color: rgb(6, 2, 2);
   top: 0;
   left: 0;
   right: 0;
@@ -27,10 +28,9 @@ body {
 }
 
 .nav .container {
-  display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding: 20px 0;
+  align-items: left;
+  padding: 20px;
   transition: all 0.3s ease-in-out;
 }
 
@@ -38,7 +38,7 @@ body {
   display: flex;
   list-style-type: none;
   align-items: center;
-  justify-content: left;
+  justify-content: right;
 }
 
 .nav a {
@@ -106,8 +106,10 @@ body {
 
 .content h2,
 .content h3 {
-  font-size: 150%;
+  font-size: 130%;
   margin: 20px 0;
+  position: center center;
+  text-align: center;
 }
 
 .content p {
@@ -115,4 +117,10 @@ body {
   line-height: 30px;
   letter-spacing: 1.2px;
 }
+
+a {
+  cursor: pointer;
+}
+
+
 

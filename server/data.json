@@ -35,7 +35,7 @@
         "date": "1995",
         "title": "Pedrá",
         "description": "The initial intention was for the project to be an independent band from Extremoduro, so it is not really an album by the group as such, but rather a collective work by the leader, vocalist and guitarist Robe Iniesta with various collaborators and friends from from other bands.",
-        "poster": "data:image/jpeg;"
+        "poster": "https://i.ytimg.com/vi/WGkASmU2PIY/hqdefault.jpg"
       },
       {
         "id": 6,
@@ -56,7 +56,7 @@
         "date": "1998",
         "title": "Canciones prohibidas",
         "description": "Forbidden songs is the title of the seventh studio album by the Spanish rock band Extremoduro, produced by Uoho and published by the DRO label on September 28, 1998. Initially, its distribution was made in CD and cassette formats. A new edition with remastered versions and a bonus track was released in 2011.4 The first vinyl edition was published on September 16, 2014 based on the remastered version.",
-        "poster": "https://en.wikipedia.org/wiki/Canciones_Prohibidas#/media/File:Canciones_prohibidas.jpg"
+        "poster": "https://m.media-amazon.com/images/I/518jMiyqW1L.jpg"
       },
   
       {
@@ -94,92 +94,28 @@
     "members": [
       {
         "id": 1,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
+        "name": "Roberto Inista",
+        "bibliography": "Influenced by bands like AC/DC or Leño, in 1987 he formed the band Extremoduro. Not having the money required to afford a recording, they decided to sell tickets to anyone who wanted to contribute (at one thousand pesetas each), which would be worth a copy of the demo when it was recorded and edited. They came to sell 250 of these tickets, so they locked themselves in the Duplimatic studios in January 1989 and edited a print run of a thousand copies of this first demo entitled Rock transgressive, which was distributed throughout the Extremadura region. That same year, Avispa Music noticed Extremoduro, and offered them a three-year contract. In 1991, negotiations began with Avispa for the recording of the second album, but due to problems with diets, and due to the low expectations of future that the label offered them, they decide to break their contract and sign for the Creative Area label of Pasión Cía. Record company,6 again an independent company, but this time with better conditions and means. The economic differences due to not charging royalties led them inevitably to break with Pasión Cía. This made that at the end of that same year they signed for DRO, a subsidiary of Warner Music. At the beginning of 1993, Robe Iniesta moved to Barcelona and created the Q3. Robe dedicated all that time to composing and proposed to the record company to record a solo album but then he preferred to reject the precarious offer they proposed to him. Likewise, the members of Q3 replaced their former bandmates in Extremoduro. It was with this formation that, during the concerts of that same year and the following, they would make this time known as the era of chaos due to the anarchy and lack of foresight of their performances, probably due to personal experiences and problems. of Robe. Thus, the formation changed again and new members joined the band who were introduced to Robe by Iñaki Antón.",
+        "poster": "https://res.cloudinary.com/dpq2gujpb/image/upload/v1665575280/robe_vl9tcs.jpg"
       },
       {
         "id": 2,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
+        "name": "Iñaki Antón",
+        "bibliography": "He started playing with a group called Ke together with Juantxu Olano with whom he recorded a four-song demo. It was in 1989 when Platero y Tú was formed together with Fito, Juantxu and Jesús; which lasted until 2001. Since 1996 he is also a member of the Extremoduro group. In 2001, the year Platero and Tú split up, Adolfo Cabrales, Roberto Iniesta and Iñaki Antón recorded Basic Poesía, the only album from the Extrechinato y Tú project, intended to promote the figure of Manolo Chinato, a poet friend of Robe who had already collaborated with Extremoduro themselves and whose verses make up practically all the lyrics on the album, with the exception of Rojitas the ears, Embraced with sadness and If the sky is gray, which are the work of Adolfo Cabrales. In 2006, and before the break in composition of Extremoduro, Uoho starts the group Inconscientes together with Miguel Colino on bass and José Ignacio Cantera on drums; They are joined by Jon Calvo, vocalist and guitarist from Memoria de Pez, one of the groups on the Muxik staff.",
+        "poster": "https://res.cloudinary.com/dpq2gujpb/image/upload/v1665575280/uh_jyuuay.jpg"
       },
   
       {
         "id": 3,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
+        "name": "José Ignacio Cantera",
+        "bibliography": "José Ignacio Cantera is a Spanish rock drummer, member of the bands Extremoduro and Inconscientes. In 1997 he joined Extremoduro, a band in which Roberto Iniesta, and Iñaki Uoho Antón (producer and guitarist, at that time also of Platero y Tú, were already members. Since then they have released five studio albums. In 2001 he collaborated on Poesía basic, the only album of the Extrechinato y Tú project, aimed at extolling and promoting the figure of Manolo Chinato, a poet friend of Robe who had already collaborated with Extremoduro themselves and whose verses make up practically all the lyrics on the album. mostly recited by Chinato himself.",
+        "poster": "https://res.cloudinary.com/dpq2gujpb/image/upload/v1665575280/33_yfbajx.jpg"
       },
       {
         "id": 4,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
-      },
-  
-      {
-        "id": 5,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
-      },
-      {
-        "id": 6,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
-      },
-      {
-        "id": 7,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
-      },
-      {
-        "id": 8,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
-      },
-  
-      {
-        "id": 9,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
-      },
-      {
-        "id": 10,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
-      },
-  
-      {
-        "id": 11,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
-      },
-      {
-        "id": 12,
-        "date of birth": "",
-        "name": "",
-        "": "",
-        "poster": ""
+        "name": "Miguel Colino",
+        "bibliography": "Miguel Ángel Colino is a rock bass player, member of the bands Extremoduro and Inconscientes. In 2001 he joined Extremoduro, a band in which Roberto Iniesta, Robe (leader, composer, guitarist and vocalist), Iñaki Uoho Antón (producer and guitarist, then also of Platero y Tú) and drummer Jose Ignacio Cantera. Since then, the line-up has remained stable and they have released four studio albums, not counting the greatest hits and flops compilation. In 1998 he recorded A Puerta Cerrado, the first album by Fito & Fitipaldis, a solo project by his friend Fito Cabrales, then also the vocalist and guitarist of Platero y Tú. From 1996 to 1998 he was part of the Portuguese group The Flying Rebollos.",
+        "poster": "https://res.cloudinary.com/dpq2gujpb/image/upload/v1665575280/miguel_colino_jgqcvm.jpg"
       }
-      
     ]
   }

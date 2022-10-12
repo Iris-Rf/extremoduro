@@ -1,0 +1,46 @@
+img {
+    height: 200%;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    display: flex;
+    color: white;
+    display: block;
+    
+}
+
+#album {
+
+    /* background: rgb(245, 242, 242); */
+    margin: auto;
+    text-align: center;
+    vertical-align: text-bottom;  
+    display: flex;
+    text-underline-position: auto;
+}
+
+h2 {
+
+    background: rgb(39, 38, 37);
+    padding: 10px;
+    font-display: center;
+    color: aliceblue;
+    margin-left: 10px;
+    position: center;
+}
+
+
+
+.poster-albums {
+
+    margin-top: 15px;
+    padding-top: 100%;
+
+}
+
+p {
+    margin: 20px;
+}
+
