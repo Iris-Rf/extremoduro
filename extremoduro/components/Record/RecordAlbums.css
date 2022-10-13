@@ -11,12 +11,13 @@ img {
 
 #album {
 
-    background: rgb(245, 242, 242);
+    background: rgb(175, 43, 43);
     margin: auto;
     text-align: center;
     vertical-align: text-bottom;  
     display: flex;
     text-underline-position: auto;
+    color: white;
 }
 
 h2 {
